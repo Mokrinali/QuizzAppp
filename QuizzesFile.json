@@ -1,0 +1,44 @@
+[
+  {
+    "QuizId": 1,
+    "Title": "General Knowledge",
+    "CreatorUsername": "admin",
+    "Questions": [
+      {
+        "Text": "Romel tsels sheiqmna gaero (gaertianebuli erebis organizatsia)?",
+        "Options": [ "1945", "1950", "1939", "1961" ],
+        "CorrectOptionIndex": 0
+      },
+      {
+        "Text": "Romel tsels mokhda saqartvelos damoukideblobis gamoackhadeba?",
+        "Options": [ "1918", "1921", "1991", "1993" ],
+        "CorrectOptionIndex": 2
+      },
+      {
+        "Text": "Romelia msoflioshi qveynaze yvelaze magali mta?",
+        "Options": [ "Monblani", "Mak-Kinli", "Everesti", "Kilimanjaro" ],
+        "CorrectOptionIndex": 2
+      },
+      {
+        "Text": "Vin aris michneuli „meqanikuri saatis“ gamomgoneblad?",
+        "Options": [ "Galileo Galilei", "Ioanes de Karla", "Benjaman Franklini", "Nikola Koperniki" ],
+        "CorrectOptionIndex": 1
+      },
+      {
+        "Text": "Rom qveyanashi mdebareobs \"Gizas piramidebi\"?",
+        "Options": [ "Meksika", "Egvipte", "Chineti", "Saberdzneti" ],
+        "CorrectOptionIndex": 1
+      },
+      {
+        "Text": "Romeli qartuli qalaqia cnobili \"Bagratis Tadzrit\"?",
+        "Options": [ "Batumi", "Tbilisi", "Kutaisi", "Gori" ],
+        "CorrectOptionIndex": 2
+      },
+      {
+        "Text": "Vin dacera \"Masteri da Margarita\"?",
+        "Options": [ "Fiodor Dostoevski", "Mikheil Bulgakovi", "Lev Tolstoi", "Anton Chekhovi" ],
+        "CorrectOptionIndex": 1
+      }
+    ]
+  }
+]

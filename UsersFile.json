@@ -1,0 +1,25 @@
+[
+  {
+    "Username": "john_doe",
+    "Password": "password123",
+    "HighScore": 80,
+    "AttemptedQuizIds": [
+      1,
+      2
+    ]
+  },
+  {
+    "Username": "jane_smith",
+    "Password": "12345",
+    "HighScore": 100,
+    "AttemptedQuizIds": [
+      3
+    ]
+  },
+  {
+    "Username": "Nikolozi",
+    "Password": "kikiani",
+    "HighScore": 0,
+    "AttemptedQuizIds": []
+  }
+]
